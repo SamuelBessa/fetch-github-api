@@ -17,6 +17,31 @@ body {
   padding-bottom: 100px;
 }
 
+.name-repos{
+  font-weight: 700;
+}
+
+ .repo-info {
+  border-radius: 8px;
+  color: #e0dfdf;
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+  padding: 10px;
+  width: 250px;
+  border: 2px solid #000;
+  background-color: #bbb;
+  margin-left: 25px;
+}
+
+.repo-stat, .repo-language {
+  background-color: #4527A0;
+  border-radius: 5px;
+  padding: 2px 8px;
+  font-size: 14px;
+  margin: 5px;
+}
+
 main {
   display: flex;  
   justify-content: center;
