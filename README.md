@@ -4,6 +4,8 @@ Este projeto foi uma "quest" do curso dev-quest, desenvolvida para aplicar conhe
 
 ## Preview
 
+![Preview do Projeto](./gif/tela.gif.gif)
+
 
 ## Tecnologias Utilizadas
 
