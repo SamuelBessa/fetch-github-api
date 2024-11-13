@@ -14,6 +14,7 @@ Este projeto foi uma "quest" do curso dev-quest, desenvolvida para aplicar conhe
 
 ## Estrutura do código
 
+```plaintext
 ├── index.html
 │   
 ├── src/
@@ -47,3 +48,4 @@ Este projeto foi uma "quest" do curso dev-quest, desenvolvida para aplicar conhe
 │
 │
 └── README.md
+```
